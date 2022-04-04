@@ -1,0 +1,20 @@
+.container{
+  margin: 0 auto;
+  max-width: 1200px;
+  display: grid;
+  grid-auto-rows: minmax(150px, auto);
+  gap: .5em;
+}
+
+header{
+  background-color: lightblue;
+}
+
+section {
+  height: 400px;
+  background-color: lightsalmon;
+}
+
+footer{
+  background-color: lightgreen;
+}
