@@ -17,7 +17,7 @@
 > &nbsp;
 > &nbsp;
 
-### 🏠 [Homepage](https://github.com/task-er/html-to-pdf-converter-using-wkhtmltopdf)
+### 🏠 [Homepage](https://common-dev.tistory.com/entry/HTML-to-PDF-%EB%B3%80%ED%99%98-%EC%9E%91%EC%97%85-using-wkhtmltopdf)
 
 ## Prerequisites
 
@@ -32,8 +32,10 @@ npm install
 
 ## Usage
 
-> First, change the path in ['from/index.html', 'index.js'] <br/>
-> dotenv로 변경할 예정
+> Change the .env file like below. <br/>
+> It should be added to .gitignore, but not here.<br/> <br />
+> ```PROJECT_PATH=```[ PROJECT_PATH ] <br />
+> ```WKHTMLTOPDF_PATH=```[ WKHTMLTOPDF_PATH ]
 ```sh
 npm start
 ```
