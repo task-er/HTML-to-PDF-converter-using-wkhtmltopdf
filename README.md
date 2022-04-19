@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/-HTML5-EC6231?logo=html5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-CSS3-139DCE?logo=css3&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/wkhtmltopdf-yellowgreen?&query=<//data/subdata>&prefix=<PREFIX>&suffix=<SUFFIX>" />
 </p>
 
 > This program is converter that converts HTML to PDF. I used WKHTMLTOPDF.
